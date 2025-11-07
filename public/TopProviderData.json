@@ -1,0 +1,122 @@
+[
+    {
+        "providerId": 1,
+        "providerName": "Olivia Brown",
+        "skill": "Creative Writing Workshop",
+        "rating": 4.9,
+        "students": 120,
+        "email": "olivia@skillswap.com",
+        "image": "https://i.postimg.cc/BZynK6kL/teacher1.jpg",
+        "bio": "Award-winning writer helping aspiring authors master storytelling and style."
+    },
+    {
+        "providerId": 2,
+        "providerName": "Liam Carter",
+        "skill": "Photography Masterclass",
+        "rating": 4.8,
+        "students": 150,
+        "email": "liam@skillswap.com",
+        "image": "https://i.postimg.cc/zXgXSNYy/teacher2.jpg",
+        "bio": "Professional photographer with 10+ years of experience in portrait and nature photography."
+    },
+    {
+        "providerId": 3,
+        "providerName": "Sofia Khan",
+        "skill": "Yoga for Beginners",
+        "rating": 4.9,
+        "students": 200,
+        "email": "sofia@skillswap.com",
+        "image": "https://i.postimg.cc/qM3MXrHz/teacher3.jpg",
+        "bio": "Certified yoga instructor focusing on mindfulness and flexibility training."
+    },
+    {
+        "providerId": 4,
+        "providerName": "Ethan Miller",
+        "skill": "Full-Stack Web Development",
+        "rating": 4.9,
+        "students": 180,
+        "email": "ethan@skillswap.com",
+        "image": "https://i.postimg.cc/dtytmFck/teacher4.jpg",
+        "bio": "Software engineer helping learners master JavaScript, React, and Node.js."
+    },
+    {
+        "providerId": 5,
+        "providerName": "Ava Patel",
+        "skill": "Public Speaking Essentials",
+        "rating": 4.8,
+        "students": 95,
+        "email": "ava@skillswap.com",
+        "image": "https://i.postimg.cc/KvMvrbhK/teacher5.jpg",
+        "bio": "Confidence coach empowering students to speak clearly and effectively."
+    },
+    {
+        "providerId": 6,
+        "providerName": "Noah Johnson",
+        "skill": "Guitar for Beginners",
+        "rating": 4.9,
+        "students": 140,
+        "email": "noah@skillswap.com",
+        "image": "https://i.postimg.cc/m2H2N4W7/teacher6.jpg",
+        "bio": "Musician and music teacher with a passion for acoustic and blues guitar."
+    },
+    {
+        "providerId": 7,
+        "providerName": "Maya Lin",
+        "skill": "Digital Marketing Strategy",
+        "rating": 4.8,
+        "students": 160,
+        "email": "maya@skillswap.com",
+        "image": "https://i.postimg.cc/KvMvrbhK/teacher5.jpg",
+        "bio": "Marketing strategist helping small businesses grow through online campaigns."
+    },
+    {
+        "providerId": 8,
+        "providerName": "William Park",
+        "skill": "Advanced Python Programming",
+        "rating": 4.9,
+        "students": 130,
+        "email": "william@skillswap.com",
+        "image": "https://i.postimg.cc/m2H2N4W7/teacher6.jpg",
+        "bio": "Data scientist specializing in Python automation, analytics, and AI tools."
+    },
+    {
+        "providerId": 9,
+        "providerName": "Emma Lopez",
+        "skill": "Graphic Design Basics",
+        "rating": 4.7,
+        "students": 90,
+        "email": "emma@skillswap.com",
+        "image": "https://i.postimg.cc/dtytmFck/teacher4.jpg",
+        "bio": "Freelance designer teaching color theory, layout, and Adobe Illustrator."
+    },
+    {
+        "providerId": 10,
+        "providerName": "Daniel Kim",
+        "skill": "Mobile App Development",
+        "rating": 4.9,
+        "students": 110,
+        "email": "daniel@skillswap.com",
+        "image": "https://i.postimg.cc/qM3MXrHz/teacher3.jpg",
+        "bio": "App developer building Android and iOS apps with Flutter and React Native."
+    },
+    {
+        "providerId": 11,
+        "providerName": "Sophia Green",
+        "skill": "Cooking International Cuisine",
+        "rating": 4.8,
+        "students": 175,
+        "email": "sophia@skillswap.com",
+        "image": "https://i.postimg.cc/zXgXSNYy/teacher2.jpg",
+        "bio": "Chef and food blogger sharing authentic global recipes and cooking techniques."
+    },
+    {
+        "providerId": 12,
+        "providerName": "Henry Walker",
+        "skill": "English Speaking Practice",
+        "rating": 4.9,
+        "students": 220,
+        "email": "henry@skillswap.com",
+        "image": "https://i.postimg.cc/BZynK6kL/teacher1.jpg",
+        "bio": "Language coach helping non-native speakers improve fluency and pronunciation."
+    }
+]
